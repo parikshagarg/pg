@@ -1,0 +1,159 @@
+body{
+    color: #40514E;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+hr{
+
+    border-style:none;
+    border-top-style: dotted;
+    border-color: #66BFBF;
+    border-width: 0.3125em;
+    width: 8%;
+    margin: 3.125em auto;
+ }
+h1{
+    margin-top:2.6rem auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 4.375em;;
+
+}
+h2{
+    padding-bottom: 0;
+    font-family: ink free ;
+    font-style: italic;
+    font-size: 2.50em;
+    color:#66BFBF;
+    
+}
+h3{
+    font-family: 'Piedra', cursive;
+    font-size: 1.875em;
+    color:gray;
+}
+a{
+    color:  #11999E;
+    margin: 1.25em 1.87em ;
+    text-decoration: none;
+    font-size: 1.25em;
+}
+a:hover{
+    color: cornsilk;
+    
+}
+p{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 1.875em;
+}
+.copyright
+{color: white;
+
+}
+.top
+{
+    background-color: rgb(160, 239, 250);
+     position: relative;
+     padding-top: 6.25em;
+     line-height: normal;
+}
+.middle
+{padding-top: 1.25em;}
+
+.skill-row
+{   width: 50%;
+    margin: 3.125em auto 3.125em auto ;
+    text-align: left ;
+    padding-bottom: 0.625em;
+
+}
+.intro
+{
+    padding-top: 0.625em;
+    width: 50%;
+    margin:auto;
+}
+.top-cloud
+{
+position: absolute;
+right: 18.75em;
+top: 3.125em;
+}
+.bottom-cloud
+{
+    position:absolute;
+ left: 18.75em;
+ top: 21.25em;
+}
+.bottom{
+    background-color: rgb(160, 239, 250);
+     padding:1.25em;
+}
+.girl
+{
+    padding-top: 0;
+}
+.football
+{
+    width: 25%;
+    float: left;
+    margin-right: 1.875em;
+
+}
+.videos
+{
+    width: 20%;
+    float: left;
+    margin-right: 1.875em;
+
+
+}
+.cooking
+{
+    width: 25%;
+    float: right;
+    margin-right: 1.875em;
+}
+.message
+{
+    margin-bottom: 2.1875em;
+}
+.btn
+{
+        box-shadow:inset 0px 1px 0px 0px #bee2f9;
+        background:linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
+        background-color:#63b8ee;
+        border-radius:6px;
+        border:1px solid #3866a3;
+        display:inline-block;
+        cursor:pointer;
+        color:white;
+        font-family: 'Montserrat', sans-serif;
+        font-size:15px;
+        font-weight:bold;
+        padding:12px 15px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #7cacde;
+    }
+    .myButton:hover {
+        background:linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+        background-color:#468ccf;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+    }
+    
+            
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+	background-color:#468ccf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+}
